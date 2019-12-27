@@ -1,4 +1,6 @@
 # regismarlboro
+usage : php run.php data_nik.txt
+<br><br>
 <br>Format: <br>
 nik|nama|tanggal|bulan|tahun
 <br>example : <br>
